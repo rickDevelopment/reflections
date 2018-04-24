@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A. The is reason for using a remote repository is if you a working multiple callaborators or you want to store you code somewheere other 
+than you local computer 
