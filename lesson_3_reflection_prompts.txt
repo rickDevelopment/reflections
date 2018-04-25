@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
-A. The is reason for using a remote repository is if you are working with multiple callaborator or you want to store you code somewhere other than you local computer 
+A. The reason for using a remote repository is if you are working with multiple callaborator or you want to store you code somewhere other than you local computer
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A reason to pull branch manually instead of having github automatically sync with the remote branch is you might be working on code that might conflict with the remote code
